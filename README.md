@@ -19,18 +19,27 @@ https://item.taobao.com/item.htm?spm=a230r.1.14.110.7ced2685eKFe0O&id=1308133168
 ![GITHUB]( photo/TB2LV7RgbsTMeJjSsziXXcdwXXa_!!635713206.jpg "要找這種")
 
 # 程式
+## 程式我是參考[sonovice](https://github.com/sonovice/sle4442)
 - 把sle4442.ino 和 memory.h 放一起
 - 上傳到arduino
 # 接線圖
 ![GITHUB]( photo/接線圖.png )
 # 製作步驟
 ## 1
+移除SIM卡座
+![GITHUB]( photo/IMG_3831.JPG)
+## 2
+刮開所有線
+### 刮出 
+- GND
+- IO
+- CLK
+- RST
+![GITHUB]( photo/IMG_3834.JPG)
+![GITHUB]( photo/IMG_3835.JPG)
 
 
 
 
 
 
-
-
-程式我是參考[sonovice](https://github.com/sonovice/sle4442)
