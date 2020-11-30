@@ -42,7 +42,7 @@ https://item.taobao.com/item.htm?spm=a230r.1.14.110.7ced2685eKFe0O&id=1308133168
 黏貼ARDUINO
 ![GITHUB]( photo/IMG_3836.JPG)
 ## 4
-依照線圖接線
+依照線接線圖接線
 ![GITHUB]( photo/IMG_3839.JPG)
 ## 5
 完成
